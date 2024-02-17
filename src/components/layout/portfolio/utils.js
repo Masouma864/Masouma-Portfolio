@@ -1,0 +1,79 @@
+export const portfolioData = [
+    {
+      id: 1,
+      title: "Neo-products",
+      category: "Web Development",
+      imageUrlMain:"./img/portfolio/p1-neo.PNG",
+      imageUrl: ["./img/portfolio/p1-neo.PNG","./img/portfolio/p2-neo.PNG","./img/portfolio/p3-neo.PNG"],
+      description: "Description of Portfolio Item 1",
+      url:"https://neo-product.com/",
+      date: '2022/3/2',
+      client:"Freelancer.com"
+
+      // Other properties
+    },
+    {
+      id: 2,
+      title: "Book Store App",
+      category: "Frontend development",
+      imageUrlMain:"./img/portfolio/p1-book.PNG",
+      imageUrl: ["./img/portfolio/p1-book.PNG","./img/portfolio/p1-book.PNG"],
+      description: "Single Page Application that display Books and allows users to Add, Remove and Edit these books.This is an app created with React and Redux that enables you to showcase a catalog of books that you have added, add new titles to the list, and delete existing ones. It's essentially a virtual bookstore where you can manage your collection of books.",
+      url:"https://nimble-sherbet-ce8220.netlify.app/Book",
+      date: '2022/3/2',
+      client:"ACU Company"
+      // Other properties
+    },
+    {
+      id: 3,
+      title: "Recipe-App",
+      category: "Frontend Development",
+      imageUrlMain:"./img/portfolio/p3-recipe.PNG",
+      imageUrl: ["./img/portfolio/p3-recipe.PNG","./img/portfolio/p2-recipe.PNG","./img/portfolio/p1-recipe.PNG"],
+      description: "This is a single page application that showcases top-notch food and its recipes from all over the world from veg to meat. It will take your response in the form of likes and comments.",
+      url:"jovial-froyo-119ccd.netlify.app/",
+      date: '2022/3/2',
+      client:"Microverse Company"
+      // Other properties
+    },
+    {
+      id: 4,
+      title: "Portfolio",
+      category: "Frontend",
+      imageUrlMain:"./img/portfolio/portfolio-4.jpg",
+      imageUrl: ["./img/portfolio/portfolio-1.jpg","./img/portfolio/portfolio-2.jpg","./img/portfolio/portfolio-3.jpg"],
+      description: "Description of Portfolio Item 4",
+      url:"www.example.com",
+      date: '2022/3/2',
+      client:"ACU Company"
+      // Other properties
+    },
+    {
+      id: 5,
+      title: "Portfolio Item 5",
+      category: "Graphic Design",
+      imageUrlMain:"./img/portfolio/portfolio-5.jpg",
+      imageUrl: ["./img/portfolio/portfolio-1.jpg","./img/portfolio/portfolio-2.jpg","./img/portfolio/portfolio-3.jpg"],
+      description: "Description of Portfolio Item 5",
+      url:"www.example.com",
+      date: '2022/3/2',
+      client:"ACU Company"
+      // Other properties
+    },
+    {
+      id: 6,
+      title: "Portfolio Item 6",
+      category: "Graphic Design",
+      imageUrlMain:"./img/portfolio/portfolio-6.jpg",
+      imageUrl: ["./img/portfolio/portfolio-1.jpg","./img/portfolio/portfolio-2.jpg","./img/portfolio/portfolio-3.jpg"],
+      description: "Description of Portfolio Item 6",
+      url:"www.example.com",
+      date: '2022/3/2',
+      client:"ACU Company"
+      // Other properties
+    },
+   
+  ];
+  
+  export default portfolioData;
+  
