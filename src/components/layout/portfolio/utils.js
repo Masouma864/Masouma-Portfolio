@@ -5,9 +5,9 @@ export const portfolioData = [
       category: "Web Development",
       imageUrlMain:"./img/portfolio/p1-neo.PNG",
       imageUrl: ["./img/portfolio/p1-neo.PNG","./img/portfolio/p2-neo.PNG","./img/portfolio/p3-neo.PNG"],
-      description: "Description of Portfolio Item 1",
+      description: "Spearheaded the development of an e-commerce project using Laravel,Bootstrap,and JavaScript Collaborated closely with the client to understand project requirements and deliverables",
       url:"https://neo-product.com/",
-      date: '2022/3/2',
+      date: '2023/1/2',
       client:"Freelancer.com"
 
       // Other properties
@@ -21,7 +21,7 @@ export const portfolioData = [
       description: "Single Page Application that display Books and allows users to Add, Remove and Edit these books.This is an app created with React and Redux that enables you to showcase a catalog of books that you have added, add new titles to the list, and delete existing ones. It's essentially a virtual bookstore where you can manage your collection of books.",
       url:"https://nimble-sherbet-ce8220.netlify.app/Book",
       date: '2022/3/2',
-      client:"ACU Company"
+      client:"Bookstore"
       // Other properties
     },
     {
@@ -32,7 +32,7 @@ export const portfolioData = [
       imageUrl: ["./img/portfolio/p3-recipe.PNG","./img/portfolio/p2-recipe.PNG","./img/portfolio/p1-recipe.PNG"],
       description: "This is a single page application that showcases top-notch food and its recipes from all over the world from veg to meat. It will take your response in the form of likes and comments.",
       url:"jovial-froyo-119ccd.netlify.app/",
-      date: '2022/3/2',
+      date: '2022/9/2',
       client:"Microverse Company"
       // Other properties
     },
@@ -40,36 +40,36 @@ export const portfolioData = [
       id: 4,
       title: "Portfolio",
       category: "Frontend",
-      imageUrlMain:"./img/portfolio/portfolio-4.jpg",
+      imageUrlMain:"./img/portfolio/portfolio.PNG",
       imageUrl: ["./img/portfolio/portfolio-1.jpg","./img/portfolio/portfolio-2.jpg","./img/portfolio/portfolio-3.jpg"],
       description: "Description of Portfolio Item 4",
-      url:"www.example.com",
-      date: '2022/3/2',
-      client:"ACU Company"
+      url:"https://github.com/Masouma864/Masouma-Portfolio",
+      date: '2023/10/2',
+      client:"Masouma"
       // Other properties
     },
     {
       id: 5,
-      title: "Portfolio Item 5",
-      category: "Graphic Design",
-      imageUrlMain:"./img/portfolio/portfolio-5.jpg",
-      imageUrl: ["./img/portfolio/portfolio-1.jpg","./img/portfolio/portfolio-2.jpg","./img/portfolio/portfolio-3.jpg"],
-      description: "Description of Portfolio Item 5",
-      url:"www.example.com",
+      title: "Loan Managment System",
+      category: "web development",
+      imageUrlMain:"./img/portfolio/Loan1.png",
+      imageUrl: ["./img/portfolio/loan2.jpg","./img/portfolio/Loan1.jpg","./img/portfolio/portfolio-3.jpg"],
+      description: "This project is a loan management system that provides features for managing customers, products, loans, and payments.",
+      url:"https://github.com/Masouma864/Loan-mgt-module/",
       date: '2022/3/2',
-      client:"ACU Company"
+      client:"woosat Company"
       // Other properties
     },
     {
       id: 6,
-      title: "Portfolio Item 6",
-      category: "Graphic Design",
-      imageUrlMain:"./img/portfolio/portfolio-6.jpg",
-      imageUrl: ["./img/portfolio/portfolio-1.jpg","./img/portfolio/portfolio-2.jpg","./img/portfolio/portfolio-3.jpg"],
+      title: "Team work",
+      category: "web develoment",
+      imageUrlMain:"./img/portfolio/teamwork1.png",
+      imageUrl: ["./img/portfolio/team2.jpg","./img/portfolio/teamwork1.jpg","./img/portfolio/portfolio-3.jpg"],
       description: "Description of Portfolio Item 6",
-      url:"www.example.com",
+      url:"https://team-work-qaqn.vercel.app/",
       date: '2022/3/2',
-      client:"ACU Company"
+      client:"freelance"
       // Other properties
     },
    
